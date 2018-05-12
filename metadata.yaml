@@ -1,0 +1,43 @@
+_repo: Dutch-and-English-on-the-HudsonA-Chronicle-of-Colonial-New-York_34977
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Jefferys, Charles W. (Charles William)
+    aliases:
+    - Jefferys, C. W. (Charles William)
+    - Jefferys, Charles William
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '37358'
+    url: http://www.gutenberg.org/2009/agents/37358
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goodwin, Maud Wilder
+    birthdate: 1856
+    deathdate: 1935
+    gutenberg_agent_id: '24865'
+    url: http://www.gutenberg.org/2009/agents/24865
+description: 'Dutch and English on the Hudson : a chronicle of colonial New York /
+  by Maud Wilder Goodwin -- The Quaker colonies ; a chronicle of the proprietors of
+  the Delaware / by Sydney G. Fisher.'
+gutenberg_issued: '2011-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34977'
+  lccn: '22012129'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F106'
+- !lcsh 'English -- New York (State) -- History'
+- !lcc 'E151'
+- !lcsh 'Dutch -- New York (State) -- History'
+- !lcsh 'New York (State) -- History -- Colonial period, ca. 1600-1775'
+- !lcsh 'Hudson River Region (N.Y. and N.J.) -- History'
+title: 'Dutch and English on the Hudson: A Chronicle of Colonial New York'
+url: http://www.gutenberg.org/ebooks/34977
